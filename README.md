@@ -12,14 +12,14 @@ This is an implementation of the Hangman game, where the computer thinks of a wo
    - [File Structure](#file-structure)
    - [License Information](#license-information)
 2. [Milestone 3](#milestone-3)
-   - [Description](#description)
-   - [File Structure](#file-structure)
+   - [Description](#description-1)
+   - [File Structure](#file-structure-1)
 3. [Milestone 4](#milestone-4)
-   - [Description](#description)
-   - [File Structure](#file-structure)
+   - [Description](#description-2)
+   - [File Structure](#file-structure-2)
 4. [Milestone 5](#milestone-5)
-   - [Description](#description)
-   - [File Structure](#file-structure)
+   - [Description](#description-3)
+   - [File Structure](#file-structure-3)
 
 ## Milestone 2
 Creating Variables for the game.
