@@ -30,7 +30,7 @@ This project demonstrates basic Python functionality, including:
 6. When installed restart your device. Then in search tab look for Gitbash to confirm it fully installed.
 
 ## Usage Instructions
-1. All information given and can be extracted from the videos, notebooks given within the course and in additiion online through Stack Overflow and many websites to extract dictionaires, understand how VScode and Github works.
+- All information given and can be extracted from the videos, notebooks given within the course and in additiion online through Stack Overflow and many websites to extract dictionaires, understand how VScode and Github works.
 
 ## File Structure
 - `Milestone_2.py`: The main script is in python form containing all functionality for this milestone.
