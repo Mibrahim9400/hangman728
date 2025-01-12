@@ -4,6 +4,7 @@ Hangman is a classic game in which a player thinks of a word and the other playe
 This is an implementation of the Hangman game, where the computer thinks of a word and the user tries to guess it. 
 
 ## Table of Contents
+
 1. [Milestone 2](#milestone-2)
    - [Description](#description)
    - [Installation Instructions](#installation-instructions)
@@ -22,7 +23,7 @@ This is an implementation of the Hangman game, where the computer thinks of a wo
 
 ## Milestone 2
 
-Creating Variables for the game
+Creating Variables for the game.
 
 ### Description
 This project demonstrates basic Python functionality, including:
