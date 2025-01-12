@@ -40,10 +40,6 @@ This project demonstrates basic Python functionality, including:
 
 Check if the guessed character is in the word.
 
-## Table of Contents
-1. [Description](#description)
-2. [File Structure](#file-structure)
-
 ## Description
 
 This project is a Hangman game where the player attempts to guess a word by guessing individual characters. The milestone focuses on implementing the core functionality of checking if a guessed character is part of the word using loops, iteration, and control flow. It also utilizes functions to organize the game's logic and make it more modular.
@@ -59,10 +55,6 @@ In this milestone, I learned how to apply for loops to iterate over characters i
 
 Create the class game
 
-## Table of Contents
-1. [Description](#description)
-2. [File Structure](#file-structure)
-
 ## Description
 This milestone implements the core logic for a Hangman game using the **`Hangman`** class, following **Object-Oriented Programming (OOP)** principles. The game randomly selects a word from a list, and the player guesses letters to reveal the word. Key features include:
 
@@ -77,10 +69,6 @@ The project utilizes **functions (`def`)**, **control flow (`if` statements)**, 
 - `Milestone_4.py`: The main script is in python form containing all functionality for this milestone.
 
 # Milestone_5
-
-## Table of Contents
-1. [Description](#description)
-2. [File Structure](#file-structure)
 
 ## Description
 This milestone refines the Hangman game by modularizing functionality into smaller methods and introducing better input validation. The player guesses letters to reveal the word, and the game checks for win/loss conditions. Key improvements include managing the flow of the game, displaying the current word state, and reducing repeated code through function usage.
