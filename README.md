@@ -6,20 +6,20 @@ This is an implementation of the Hangman game, where the computer thinks of a wo
 ## Table of Contents
 
 1. [Milestone 2](#milestone-2)
-   - [Description](#milestone-2-description)
-   - [Installation Instructions](#milestone-2-installation-instructions)
-   - [Usage Instructions](#milestone-2-usage-instructions)
-   - [File Structure](#milestone-2-file-structure)
-   - [License Information](#milestone-2-license-information)
+   - [Description](#description)
+   - [Installation Instructions](#installation-instructions)
+   - [Usage Instructions](#usage-instructions)
+   - [File Structure](#file-structure)
+   - [License Information](#license-information)
 2. [Milestone 3](#milestone-3)
-   - [Description](#milestone-3-description)
-   - [File Structure](#milestone-3-file-structure)
+   - [Description](#description)
+   - [File Structure](#file-structure)
 3. [Milestone 4](#milestone-4)
-   - [Description](#milestone-4-description)
-   - [File Structure](#milestone-4-file-structure)
+   - [Description](#description)
+   - [File Structure](#file-structure)
 4. [Milestone 5](#milestone-5)
-   - [Description](#milestone-5-description)
-   - [File Structure](#milestone-5-file-structure)
+   - [Description](#description)
+   - [File Structure](#file-structure)
 
 ## Milestone 2
 
