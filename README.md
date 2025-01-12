@@ -85,5 +85,5 @@ This milestone refines the Hangman game by modularizing functionality into small
 ### File Structure
 - `Milestone_5.py`: The main script is in python form containing all functionality for this milestone.
 
-## License Information
+### License Information
 - This project is licensed under AICore.
