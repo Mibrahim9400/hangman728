@@ -18,7 +18,7 @@ This is an implementation of the Hangman game, where the computer thinks of a wo
    - [File Structure](#file-structure)
 4. [Milestone 5](#milestone-5)
    - [Description](#description)
-   - [File Structure](#file-structure)
+   - [File Structure](#subheading-5-2)
 
 ## Milestone 2
 
