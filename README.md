@@ -3,7 +3,13 @@ Hangman is a classic game in which a player thinks of a word and the other playe
 
 This is an implementation of the Hangman game, where the computer thinks of a word and the user tries to guess it. 
 
-# Milestone_2
+## Table of Contents
+1. [Milestone 2](#Milestone-2)
+2. [Milestone 3](#Milestone-3)
+3. [Milestone 4](#Milestone-4)
+4. [Milestone 5](#Milestone-5)
+
+## Milestone 2
 
 Creating Variables for the game
 
@@ -36,7 +42,7 @@ This project demonstrates basic Python functionality, including:
 - `Milestone_2.py`: The main script is in python form containing all functionality for this milestone.
 
 
-# Milestone_3
+## Milestone 3
 
 Check if the guessed character is in the word.
 
@@ -51,7 +57,7 @@ In this milestone, I learned how to apply for loops to iterate over characters i
 ## File Structure 
 - `Milestone_3.py`: The main script is in python form containing all functionality for this milestone.
 
-# Milestone_4
+## Milestone 4
 
 Create the class game
 
@@ -68,7 +74,7 @@ The project utilizes **functions (`def`)**, **control flow (`if` statements)**, 
 ## File Structure
 - `Milestone_4.py`: The main script is in python form containing all functionality for this milestone.
 
-# Milestone_5
+## Milestone 5
 
 ## Description
 This milestone refines the Hangman game by modularizing functionality into smaller methods and introducing better input validation. The player guesses letters to reveal the word, and the game checks for win/loss conditions. Key improvements include managing the flow of the game, displaying the current word state, and reducing repeated code through function usage.
